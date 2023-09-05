@@ -1,0 +1,15 @@
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\bin\Debug\net6.0\lesson_2.exe
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\bin\Debug\net6.0\lesson_2.deps.json
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\bin\Debug\net6.0\lesson_2.runtimeconfig.json
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\bin\Debug\net6.0\lesson_2.dll
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\bin\Debug\net6.0\lesson_2.pdb
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\obj\Debug\net6.0\lesson_2.csproj.AssemblyReference.cache
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\obj\Debug\net6.0\lesson_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\obj\Debug\net6.0\lesson_2.AssemblyInfoInputs.cache
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\obj\Debug\net6.0\lesson_2.AssemblyInfo.cs
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\obj\Debug\net6.0\lesson_2.csproj.CoreCompileInputs.cache
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\obj\Debug\net6.0\lesson_2.dll
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\obj\Debug\net6.0\refint\lesson_2.dll
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\obj\Debug\net6.0\lesson_2.pdb
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\obj\Debug\net6.0\lesson_2.genruntimeconfig.cache
+D:\ИБ\Учеба GeekBrains\1 четверть\ДЗ по C#\lesson_2\obj\Debug\net6.0\ref\lesson_2.dll
