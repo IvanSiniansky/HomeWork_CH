@@ -5,7 +5,7 @@
 Console.WriteLine("Введите первое число");
 string strNum = Console.ReadLine();
 int num1 = int.Parse(strNum);
-    
+
 Console.WriteLine("Введите второе число");
 string strNum1 = Console.ReadLine();
 int num2 = int.Parse(strNum1);
